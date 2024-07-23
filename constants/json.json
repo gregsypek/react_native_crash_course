@@ -1,0 +1,68 @@
+[
+	{
+		"$collectionId": "6698c28700339b980535",
+		"$createdAt": "2024-07-21T18:18:00.545+00:00",
+		"$databaseId": "6698c203001eceb6787c",
+		"$id": "669d50d8000fdabfa48f",
+		"$permissions": [],
+		"$tenant": "170455",
+		"$updatedAt": "2024-07-21T18:18:00.545+00:00",
+		"creator": null,
+		"prompt": "Create a motivating AI driven video aimed at inspiring coding enthusiasts with simple language",
+		"thumbnail": "https://i.ibb.co/tJBcX20/Appwrite-video.png",
+		"title": "Get inspired to code",
+		"video": "https://player.vimeo.com/video/949579770?h=897cd5e781"
+	},
+	{
+		"$collectionId": "6698c28700339b980535",
+		"$createdAt": "2024-07-21T18:18:53.884+00:00",
+		"$databaseId": "6698c203001eceb6787c",
+		"$id": "669d510d002a71cb0847",
+		"$permissions": [],
+		"$tenant": "170455",
+		"$updatedAt": "2024-07-21T18:18:53.884+00:00",
+		"creator": {
+			"$collectionId": "6698c2610014b51c841e",
+			"$createdAt": "2024-07-18T10:37:07.638+00:00",
+			"$databaseId": "6698c203001eceb6787c",
+			"$id": "6698f0539bdb1dcc8ad0",
+			"$permissions": [],
+			"$tenant": "170455",
+			"$updatedAt": "2024-07-18T10:37:07.638+00:00",
+			"accountId": "6698f052a523f5cc1e21",
+			"avatar": "https://cloud.appwrite.io/v1/avatars/initials?name=Greg&project=6698c0dd003be42dfd3c",
+			"email": "greg.sypek@gmail.com",
+			"username": "Greg"
+		},
+		"prompt": "Picture the future of coding with AI. Show AR VR",
+		"thumbnail": "https://i.ibb.co/Xkgk7DY/Video.png",
+		"title": "How AI Shapes Coding Future",
+		"video": "https://player.vimeo.com/video/949581999?h=4672125b31"
+	},
+	{
+		"$collectionId": "6698c28700339b980535",
+		"$createdAt": "2024-07-21T18:20:12.868+00:00",
+		"$databaseId": "6698c203001eceb6787c",
+		"$id": "669d515c002892ac0e92",
+		"$permissions": [],
+		"$tenant": "170455",
+		"$updatedAt": "2024-07-21T18:20:12.868+00:00",
+		"creator": {
+			"$collectionId": "6698c2610014b51c841e",
+			"$createdAt": "2024-07-18T10:37:07.638+00:00",
+			"$databaseId": "6698c203001eceb6787c",
+			"$id": "6698f0539bdb1dcc8ad0",
+			"$permissions": [],
+			"$tenant": "170455",
+			"$updatedAt": "2024-07-18T10:37:07.638+00:00",
+			"accountId": "6698f052a523f5cc1e21",
+			"avatar": "https://cloud.appwrite.io/v1/avatars/initials?name=Greg&project=6698c0dd003be42dfd3c",
+			"email": "greg.sypek@gmail.com",
+			"username": "Greg"
+		},
+		"prompt": "Create a heartwarming video following the travels of dalmatian dog exploring beautiful Italy",
+		"thumbnail": "https://i.ibb.co/CBYzyKh/Video-1.png",
+		"title": "Dalmatian's journey through Italy",
+		"video": "https://player.vimeo.com/video/949582778?h=d60220d68d"
+	}
+]
